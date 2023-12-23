@@ -1,0 +1,2 @@
+23 dec
+task1: check how to authenticate with ssh in git hub account
