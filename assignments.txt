@@ -1,3 +1,6 @@
 23 dec
 task1: check how to authenticate with ssh in git hub account
 task2: check how to link your local inititialzed repo with remote server(git hub)
+24 dec
+task1:try to create a scenrio of merge conflict and try to resolve it with commands
+task2: apply a policy in which you need atleast 1 approver for any pr raised
