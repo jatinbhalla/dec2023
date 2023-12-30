@@ -4,3 +4,7 @@ task2: check how to link your local inititialzed repo with remote server(git hub
 24 dec
 task1:try to create a scenrio of merge conflict and try to resolve it with commands
 task2: apply a policy in which you need atleast 1 approver for any pr raised
+30dec
+task1: find difference between maven,ant,gradle
+task2: find difference between jar,war,ear
+task3: explore jenkins and other settings
