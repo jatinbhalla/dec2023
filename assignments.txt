@@ -11,3 +11,7 @@ task3: explore jenkins and other settings
 6 jan 24
 task1: try to explore jenkins environment
 task2: try to create simple pipeline for java
+7jan
+task1: try to create different type of resources with terraform
+task2: try different commands of terraform
+task3: explore how can you run terraform jenkins
