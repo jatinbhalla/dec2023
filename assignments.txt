@@ -15,3 +15,10 @@ task2: try to create simple pipeline for java
 task1: try to create different type of resources with terraform
 task2: try different commands of terraform
 task3: explore how can you run terraform jenkins
+21jan
+task1: try hands on activites for docker
+task2: try docker cheat sheet commands
+task3: try to explore the use of docker in real world with examples
+
+https://docs.docker.com/engine/reference/commandline
+https://docs.docker.com/get-started/docker_cheatsheet.pdf
