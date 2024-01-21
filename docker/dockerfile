@@ -1,6 +1,5 @@
-From ubuntu
-run apt-get update
-run apt-get -y install apache2
-add . /var/www/html
-entrypoint apachectl -Dforeground
-env name devops
+FROM ubuntu
+RUN apt-get update
+RUN apt-get -y install apache2
+ADD . /var/www/html
+ENTRYPOINT apachectl -D FOREGROUND
