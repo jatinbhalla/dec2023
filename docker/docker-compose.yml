@@ -1,0 +1,7 @@
+version: '3'
+services:
+ sample1:
+  image: jatinbhalla1991/ubuntu
+  
+ sample2:
+  image: nginx
