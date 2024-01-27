@@ -22,3 +22,9 @@ task3: try to explore the use of docker in real world with examples
 
 https://docs.docker.com/engine/reference/commandline
 https://docs.docker.com/get-started/docker_cheatsheet.pdf
+
+27jan ansible
+task1: check to login to linux vm using putty and ssh key
+task2: install ansible on primary machine if not done
+task3: check how you can access 1 linux vm to another vm with ssh method
+task4: read https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-20-04
