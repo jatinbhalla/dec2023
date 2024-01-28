@@ -27,7 +27,7 @@ pipeline {
                 // Apply Terraform changes
                 dir ('/var/lib/jenkins/workspace/terraform/terraform'){
                 script {
-                    withCredentials([azureServicePrincipal(credentialsId: 'cdf11274-e76e-4c3e-9486-743dbc4df682', variable: 'cdf11274-e76e-4c3e-9486-743dbc4df682')]) {
+                    withCredentials([azureServicePrincipal(credentialsId: 'credentials_id', variable: 'credentials_id')]) {
                         // Set Azure credentials
                         //sh 'az login --service-principal -u $MY_CRED_CLIENT_ID -p $MY_CRED_CLIENT_SECRET -t $MY_CRED_TENANT_ID'
                         sh 'export ARM_CLIENT_ID=$MY_CRED_CLIENT_ID'
