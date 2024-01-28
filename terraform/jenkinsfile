@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        MY_CRED = credentials('cdf11274-e76e-4c3e-9486-743dbc4df682')
+        MY_CRED = credentials('credentials_id')
     }
     stages {
         stage('Checkout') {
